@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: IT Pro # Website name
-baseURL: 'https://takavakidis.gr' # Website URL
+baseURL: 'https://www.takavakidis.gr' # Website URL
 
 ############################
 ## LANGUAGE
